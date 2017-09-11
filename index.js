@@ -1,6 +1,6 @@
 var a,b
-function {
-  return add(a,b)
+function add(a,b){
+  return a+b
 }
 
 function sub(){
