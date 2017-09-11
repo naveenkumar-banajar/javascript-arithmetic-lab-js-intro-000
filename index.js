@@ -3,17 +3,14 @@ function add(a,b){
   return a+b
 }
 
-function sub(){
-  var a,b;
-  return subtract(a,b)
+function subtract(a,b){
+  return a-b
 }
 
-function mul(){
-  var a,b;
-  return multiply(a,b)
+function multiply(){
+  return a*b
 }
 
-function div(){
-  var a,b;
-  return divide(a,b)
+function divide(){
+  return a/b
 }
